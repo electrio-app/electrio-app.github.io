@@ -1,0 +1,25 @@
+.home-logo {
+  border-radius: 2em;
+  width: 35%;
+  /* border: 1px solid black; */
+  float: left;
+}
+
+.home-description {
+  width: 65%;
+  padding: 1em;
+  float: left;
+  /* border: 1px solid black; */
+}
+
+.home-store-badge {
+  width: 8em;
+}
+
+.home-screenshot {
+  border: 0.2em solid black;
+  border-radius: 1em;
+  padding: 0.5em;
+  height: 70%;
+  width: auto;
+}

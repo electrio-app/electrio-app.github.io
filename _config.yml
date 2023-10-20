@@ -1,0 +1,34 @@
+title: Electrio App
+author: Sergey Trasko
+avatar: "./assets/logo.png"
+round-avatar: true
+
+social-network-links:
+  email: "sergey.trasko@gmail.com"
+  github: "electrio-app"
+  linkedin: ""
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+navbar-links:
+  Privacy Policy: "privacy"
+  Terms & Conditions: "terms_conditions"
+
+theme: beautiful-jekyll-theme
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
